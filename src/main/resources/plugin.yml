@@ -1,0 +1,4 @@
+name: BuildNOW
+version: 1.0
+author: MavenProjekt
+main: de.nomicode.buildnow.BuildNow

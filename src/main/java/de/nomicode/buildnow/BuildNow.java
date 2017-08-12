@@ -12,9 +12,7 @@ public class BuildNow extends JavaPlugin {
 
     @Override
     public void onEnable() {
-
         Bukkit.getConsoleSender().sendMessage("§eBuildNow gestartet!");
-
     }
 
     @Override
